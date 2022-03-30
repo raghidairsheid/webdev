@@ -15,7 +15,7 @@
 
 </html>
 <!-- tag php -->
-<!-- <?php
+<?php
 // define var
 $r;
 // to print the round number of a dice
@@ -26,7 +26,7 @@ echo "1) " . (rand(1,6)) . "<br>";
 echo "1) " . (rand(1,6)) . "<br>";
 echo "1) " . (rand(1,6)) . "<br>";
 
-?> -->
+?>
 
 <html>
 
